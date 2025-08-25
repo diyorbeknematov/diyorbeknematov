@@ -10,29 +10,23 @@ Building scalable backend systems with Go, microservices, and message brokers (K
 
 #### Languages
 <p>
-  [![Go](https://raw.githubusercontent.com/github/explore/main/topics/go/go.png)](https://go.dev/) **Go (Golang)**
-  [![Python](https://raw.githubusercontent.com/github/explore/main/topics/python/python.png)](https://www.python.org/) **Python**
-  [![C++](https://raw.githubusercontent.com/github/explore/main/topics/cpp/cpp.png)](https://isocpp.org/) **C++**
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="40" height="40" alt="Go" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++" />
 </p>
 
 #### Databases
 <p>
-  [![PostgreSQL](https://raw.githubusercontent.com/github/explore/main/topics/postgresql/postgresql.png)](https://www.postgresql.org/) **PostgreSQL**
-  [![MongoDB](https://raw.githubusercontent.com/github/explore/main/topics/mongodb/mongodb.png)](https://www.mongodb.com/) **MongoDB**
-  [![Redis](https://raw.githubusercontent.com/github/explore/main/topics/redis/redis.png)](https://redis.io/) **Redis**
-</p>
-
-#### Message Brokers
-<p>
-  [![RabbitMQ](https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/rabbitmq.svg)](https://www.rabbitmq.com/) **RabbitMQ**
-  [![Kafka](https://raw.githubusercontent.com/github/explore/main/topics/kafka/kafka.png)](https://kafka.apache.org/) **Apache Kafka**
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="40" height="40" alt="Redis" />
 </p>
 
 #### Tools & Others
 <p>
-  [![Linux](https://raw.githubusercontent.com/github/explore/main/topics/linux/linux.png)](https://www.linux.org/) **Linux**
-  [![Docker](https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png)](https://www.docker.com/) **Docker**  
-  [![Git](https://raw.githubusercontent.com/github/explore/main/topics/git/git.png)](https://git-scm.com/) **Git**
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" alt="Linux" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker" />
 </p>
 
 ---
@@ -49,13 +43,4 @@ Building scalable backend systems with Go, microservices, and message brokers (K
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diyorbeknematov&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
----
-
-### Get in touch
-<p>
-  <a href="mailto:diyorbeknematov0321@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="40" /></a>
-  <a href="https://linkedin.com/in/diyorbek-nematov"><img src="https://skillicons.dev/icons?i=linkedin" width="40" /></a>
-  <a href="https://t.me/diyorbeknematov0321"><img src="https://skillicons.dev/icons?i=telegram" width="40" /></a>
 </p>
