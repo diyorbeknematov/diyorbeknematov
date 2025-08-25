@@ -10,31 +10,29 @@ Building scalable backend systems with Go, microservices, and message brokers (K
 
 #### Languages
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="40" height="40" alt="Go" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40" alt="C" />
+  [![Go](https://raw.githubusercontent.com/github/explore/main/topics/go/go.png)](https://go.dev/) **Go (Golang)**
+  [![Python](https://raw.githubusercontent.com/github/explore/main/topics/python/python.png)](https://www.python.org/) **Python**
+  [![C++](https://raw.githubusercontent.com/github/explore/main/topics/cpp/cpp.png)](https://isocpp.org/) **C++**
 </p>
 
 #### Databases
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="40" height="40" alt="Redis" />
+  [![PostgreSQL](https://raw.githubusercontent.com/github/explore/main/topics/postgresql/postgresql.png)](https://www.postgresql.org/) **PostgreSQL**
+  [![MongoDB](https://raw.githubusercontent.com/github/explore/main/topics/mongodb/mongodb.png)](https://www.mongodb.com/) **MongoDB**
+  [![Redis](https://raw.githubusercontent.com/github/explore/main/topics/redis/redis.png)](https://redis.io/) **Redis**
 </p>
 
 #### Message Brokers
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" width="40" height="40" alt="Kafka" />
-  <img src="https://www.rabbitmq.com/img/logo.svg" width="40" height="40" alt="RabbitMQ" />
+  [![RabbitMQ](https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/rabbitmq.svg)](https://www.rabbitmq.com/) **RabbitMQ**
+  [![Kafka](https://raw.githubusercontent.com/github/explore/main/topics/kafka/kafka.png)](https://kafka.apache.org/) **Apache Kafka**
 </p>
 
 #### Tools & Others
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" alt="Linux" />
+  [![Linux](https://raw.githubusercontent.com/github/explore/main/topics/linux/linux.png)](https://www.linux.org/) **Linux**
+  [![Docker](https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png)](https://www.docker.com/) **Docker**  
+  [![Git](https://raw.githubusercontent.com/github/explore/main/topics/git/git.png)](https://git-scm.com/) **Git**
 </p>
 
 ---
