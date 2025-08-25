@@ -6,20 +6,36 @@ Building scalable backend systems with Go, microservices, and message brokers (K
 
 ---
 
-## Tech Stack  
+### Tech Stack  
 
-[![Go](https://raw.githubusercontent.com/github/explore/main/topics/go/go.png)](https://go.dev/)  
-[![Python](https://raw.githubusercontent.com/github/explore/main/topics/python/python.png)](https://www.python.org/)  
-[![C++](https://raw.githubusercontent.com/github/explore/main/topics/cpp/cpp.png)](https://isocpp.org/)  
-[![PostgreSQL](https://raw.githubusercontent.com/github/explore/main/topics/postgresql/postgresql.png)](https://www.postgresql.org/)  
-[![MongoDB](https://raw.githubusercontent.com/github/explore/main/topics/mongodb/mongodb.png)](https://www.mongodb.com/)  
-[![Redis](https://raw.githubusercontent.com/github/explore/main/topics/redis/redis.png)](https://redis.io/)  
-[![RabbitMQ](https://upload.wikimedia.org/wikipedia/commons/7/71/RabbitMQ_logo.svg)](https://www.rabbitmq.com/)  
-[![Kafka](https://upload.wikimedia.org/wikipedia/commons/0/05/Apache_kafka.svg)](https://kafka.apache.org/)  
-[![Docker](https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png)](https://www.docker.com/)  
-[![Kubernetes](https://raw.githubusercontent.com/github/explore/main/topics/kubernetes/kubernetes.png)](https://kubernetes.io/)  
-[![gRPC](https://grpc.io/img/logos/grpc-icon-color.png)](https://grpc.io/)  
-[![Swagger](https://raw.githubusercontent.com/github/explore/main/topics/swagger/swagger.png)](https://swagger.io/)  
+#### Languages
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="40" height="40" alt="Go" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40" alt="C" />
+</p>
+
+#### Databases
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="40" height="40" alt="Redis" />
+</p>
+
+#### Message Brokers
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" width="40" height="40" alt="Kafka" />
+  <img src="https://www.rabbitmq.com/img/logo.svg" width="40" height="40" alt="RabbitMQ" />
+</p>
+
+#### Tools & Others
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" alt="Linux" />
+</p>
 
 ---
 
@@ -36,6 +52,8 @@ Building scalable backend systems with Go, microservices, and message brokers (K
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diyorbeknematov&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
+
+---
 
 ### Get in touch
 <p>
