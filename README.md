@@ -90,10 +90,4 @@ A command-line log collector: a TCP server receives logs and stores them in SQLi
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
----
-
-## 🎓 Education
-
-**Tashkent University of Information Technology (TUIT)**  
-Cybersecurity · Graduated 2026
 
