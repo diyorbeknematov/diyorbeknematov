@@ -9,7 +9,6 @@
   <a href="mailto:diyorbeknematov0321@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://t.me/diyorbeknematov0321"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
   <a href="https://linkedin.com/in/diyorbek-nematov"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://leetcode.com/u/diyorbeknematov/"><img src="https://img.shields.io/badge/LeetCode-450%2B%20solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
 </p>
 
 ---
