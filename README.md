@@ -97,11 +97,3 @@ A command-line log collector: a TCP server receives logs and stores them in SQLi
 **Tashkent University of Information Technology (TUIT)**  
 Cybersecurity · Graduated 2026
 
----
-
-## 📚 Currently learning
-
-- 📨 Reliable messaging between services: transactional outbox, retries, dead-letter queues
-- ⚡ WebSockets and real-time delivery
-- 🔐 Applying my cybersecurity background to backend systems
-
