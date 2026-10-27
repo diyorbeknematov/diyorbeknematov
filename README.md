@@ -105,8 +105,3 @@ Cybersecurity · Graduated 2026
 - ⚡ WebSockets and real-time delivery
 - 🔐 Applying my cybersecurity background to backend systems
 
----
-
-<p align="center">
-  <i>Open to backend developer roles. Feel free to reach out!</i>
-</p>
